@@ -1,7 +1,0 @@
-{
-  "beaconUrl": "https://hub.dojomedia.group/api/client-beacon",
-  "clientId": "morgan-nelson",
-  "clientToken": "8546b342b0165feedb22b27fa38c55ad55ba96fdeb514bc866cfef0f1f1423cf",
-  "intervalMs": 300000,
-  "projectDir": ""
-}
