@@ -1,0 +1,7 @@
+{
+  "beaconUrl": "https://hub.dojomedia.group/api/client-beacon",
+  "clientId": "client-name",
+  "clientToken": "GENERATED_DURING_INSTALL",
+  "intervalMs": 300000,
+  "projectDir": "/path/to/client/project"
+}
