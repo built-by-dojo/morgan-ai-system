@@ -15,6 +15,9 @@ All agents operating under Zara's coordination. Each sub-agent has a defined sco
 | EA | Executive Assistant | `/Documents/Claude/Agents/ea/` | Active | Calendar, email, meetings, admin, daily ops |
 | Dev/Security | Technical & Security | `/Documents/Claude/Agents/dev-security/` | Active | System health, vault maintenance, security, scripts, health beacon |
 | Revenue Ops | Revenue Operations | `/Documents/Claude/Agents/revenue-ops/` | Active | Pipeline analysis, revenue optimisation, forecasting, growth levers |
+| Social Media Manager | Content Publishing & Analytics | `/Documents/Claude/Agents/social-media-manager/` | Active | YouTube/Meta publishing, analytics, content calendar, funnel attribution |
+| Copywriter | Brand Copy & Email Strategy | `/Documents/Claude/Agents/copywriter/` | Active | Email marketing (GHL), funnel copy, social captions, brand voice |
+| Lead Educator | Curriculum & Community | `/Documents/Claude/Agents/lead-educator/` | Active | Skool community, lesson plans, workbooks, framework extraction |
 
 ## How Sub-Agents Work
 
@@ -46,6 +49,9 @@ All agents operating under Zara's coordination. Each sub-agent has a defined sco
 | 2026-04-04 | EA | Initial deployment | Jack William (Dojo Creators Club) |
 | 2026-04-04 | Dev/Security | Initial deployment | Jack William (Dojo Creators Club) |
 | 2026-04-04 | Revenue Ops | Initial deployment | Jack William (Dojo Creators Club) |
+| 2026-04-06 | Social Media Manager | Phase 2 deployment | Jack William (Dojo Creators Club) |
+| 2026-04-06 | Copywriter | Phase 2 deployment | Jack William (Dojo Creators Club) |
+| 2026-04-06 | Lead Educator | Phase 2 deployment | Jack William (Dojo Creators Club) |
 
 ## Related Notes
 
@@ -53,6 +59,9 @@ All agents operating under Zara's coordination. Each sub-agent has a defined sco
 - [[ea-identity]]
 - [[dev-security-identity]]
 - [[revenue-ops-identity]]
+- [[social-media-manager-identity]]
+- [[copywriter-identity]]
+- [[lead-educator-identity]]
 - [[dol-tools-and-systems]]
 
 #zara #sub-agents #registry
